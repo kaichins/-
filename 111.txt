@@ -1,0 +1,17 @@
+
+jkesg@▒p▒i▒R MINGW64 ~/OneDrive/桌面/git repos/hello (master)
+$ git init
+Initialized empty Git repository in C:/Users/jkesg/OneDrive/桌面/git repos/hello/.git/
+
+jkesg@▒p▒i▒R MINGW64 ~/OneDrive/桌面/git repos/hello (master)
+$ git repos
+git: 'repos' is not a git command. See 'git --help'.
+
+The most similar commands are
+        rebase
+        reflog
+        remote
+        repack
+
+jkesg@▒p▒i▒R MINGW64 ~/OneDrive/桌面/git repos/hello (master)
+$ git remote add origin https://github.com/kaichins/-.git
